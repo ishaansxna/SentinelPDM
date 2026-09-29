@@ -60,6 +60,13 @@ Supported forecast horizons:
 - 72 hours
 - 168 hours
 
+## 🌐 Live Demo
+
+👉 **[Try SentinelPdM Live](https://data-everywhere-app.lovable.app/)**
+
+> SentinelPdM runs its predictive-maintenance workflow directly in the browser, including telemetry analysis, ML risk scoring, forecasting, explainability, and maintenance recommendations.
+
+
 ### 🔍 Explainable AI
 
 Instead of providing only a probability score, SentinelPdM calculates the contribution of every sensor to the current prediction.
